@@ -1,0 +1,15 @@
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\bin\Debug\net6.0\001_helloConsole.exe
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\bin\Debug\net6.0\001_helloConsole.deps.json
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\bin\Debug\net6.0\001_helloConsole.runtimeconfig.json
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\bin\Debug\net6.0\001_helloConsole.dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\bin\Debug\net6.0\001_helloConsole.pdb
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.csproj.AssemblyReference.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.AssemblyInfoInputs.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.AssemblyInfo.cs
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\refint\001_helloConsole.dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.pdb
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\001_helloConsole.genruntimeconfig.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Урок 1. Знакомство с C#\Examples\001_helloConsole\obj\Debug\net6.0\ref\001_helloConsole.dll
